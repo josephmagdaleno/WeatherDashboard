@@ -1,4 +1,7 @@
 # WeatherDashboard
+AS A traveler
+I WANT to see the weather outlook for multiple cities
+SO THAT I can plan a trip accordingly
 # Application Features
 The application takes the City the user has entered and displays the current forecast and 5 day forcast.
 It saves your recent searches and displays them to see what the user has out in before.
